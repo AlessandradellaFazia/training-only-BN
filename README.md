@@ -1,6 +1,6 @@
 # training-only-BN
 
-DLAI course final project a.y. 2021/2022 
+This repository contains the final project of the DLAI (Deep Learning & Applied AI) course, a.y. 2021/2022, at Sapienza University of Rome.
 
 ### Specification 
 
@@ -13,6 +13,12 @@ The dependencies are stored in environment.txt. Create a virtual environment and
 ```bash
 pip install -r requirement.txt
 ```
+
+### Code 
+1) main.ipynb contains the main analysis of the project
+2) utils_fuctions.py file that contains all implemented functions, e.g. training functions and plots. 
+
+For convenience the notebook which can be viewed [here]()
 
 ### Dataset 
 
