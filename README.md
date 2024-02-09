@@ -24,7 +24,7 @@ The dataset used in this project is the UPFD Dataset https://arxiv.org/abs/2104.
 
 ### Purpose 
 
-In this project we test experimentally how it is possible to obtain good results by training only the parameters of batch normalization on non-Euclidean data such as graphs.
+In this project we test experimentally that we can obtain good results by training only the parameters of batch normalization on non-Euclidean data such as graphs.
 The chosen problem was Graph Classification for discern fake news from real news.
 Traditional methods for detecting fake news is fact-checking that required time-consuming work for acquire evidence from domain experts.
 In the above-mentioned work instead, user preferences (personality, sentimentent and stance) are used together with the propagation graph of the news, in addition to the textual content of the news. The user's preference are estimated by looking at the historical posts. News propagation graph is build on the chain of retweets of a news.
