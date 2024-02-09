@@ -2,6 +2,8 @@
 
 This repository contains the final project of the [DLAI](https://github.com/erodola/DLAI-s2-2022) (Deep Learning & Applied AI) course, a.y. 2021/2022, at Sapienza University of Rome.
 
+Author: Alessandra della Fazia 
+
 ### Specification 
 
 Project 08: Training BatchNorm and only BatchNorm 
